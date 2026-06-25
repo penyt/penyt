@@ -1,16 +1,14 @@
-# Hi, I'm penyt 🐧
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6CACF7&width=435&lines=Hi%2C+I'm+penyt+%F0%9F%90%A7)](https://git.io/typing-svg)
 
-## Featured projects
+### <img src="https://api.iconify.design/simple-icons:obsidian.svg?color=%237C3AED" width="22" height="22" alt="Obsidian" /> Obsidian Plugins
+- [Replace Pencil](https://github.com/penyt/replace-pencil) - An obsidian plugin that can easily replace the custom variable in the code block.
+- [Vim Mode Status](https://github.com/penyt/vim-mode-status) - An Obsidian plugin that show Vim mode (Normal/Insert/Visual) in the status bar with colors.
+- [Style Obmd](https://github.com/penyt/obsidian-style-obmd) - An Obsidian plugin that adds customizable colors to highlights and bold text, with commands to convert the styled Markdown into portable inline HTML.
 
-### Obsidian Plugins
+### <img src="https://api.iconify.design/devicon:hugo.svg" width="22" height="22" alt="Hugo" /> Hugo Theme
+- [Morandyt](https://github.com/penyt/morandyt) - A Hugo theme that primarily uses the Morandi color tone for a soft, muted visual style.
 
-- [style-obmd](https://github.com/penyt/style-obmd)  
-  Obsidian Markdown style and highlight plugin.
-
-### Tools
-
-- [tmux-pencil](https://github.com/penyt/tmux-pencil)  
-  Interactive tmux status line configuration tool.
-
+<br>
+<br>
 
 [![Penyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=penyt&show_icons=true&theme=github_dark&hide_rank=true&hide=commits,issues)](https://github.com/anuraghazra/github-readme-stats)
