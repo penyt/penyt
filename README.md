@@ -11,3 +11,6 @@
 
 - [tmux-pencil](https://github.com/penyt/tmux-pencil)  
   Interactive tmux status line configuration tool.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=penyt)](https://github.com/anuraghazra/github-readme-stats)
