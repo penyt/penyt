@@ -13,4 +13,4 @@
   Interactive tmux status line configuration tool.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=penyt)](https://github.com/anuraghazra/github-readme-stats)
+[![Penyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=penyt&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
