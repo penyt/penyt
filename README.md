@@ -14,8 +14,6 @@
 <br>
 <br>
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=penyt&show_icons=true&theme=github_dark&hide=commits,issues&rank_icon=github"/>
-  &nbsp;&nbsp;&nbsp;
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=penyt&repo=Copyright-and-License&show_icons=true&theme=github_dark&show_owner=true&description_lines_count=2"/>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=penyt&show_icons=true&theme=github_dark&hide=commits,issues&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Copyright & License](https://github-readme-stats.vercel.app/api/pin/?username=penyt&repo=Copyright-and-License&show_icons=true&theme=github_dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
