@@ -16,7 +16,7 @@
 
 <p align="center">
   <img
-    width="100%"
+    width="80%"
     src="https://github-readme-stats.vercel.app/api?username=penyt&show_icons=true&theme=github_dark&hide=commits,issues&rank_icon=github"
   />
 </p>
