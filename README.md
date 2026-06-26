@@ -15,8 +15,6 @@
 <br>
 
 <p align="center">
-  <img
-    width="80%"
-    src="https://github-readme-stats.vercel.app/api?username=penyt&show_icons=true&theme=github_dark&hide=commits,issues&rank_icon=github"
-  />
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=penyt&show_icons=true&theme=github_dark&hide=commits,issues&rank_icon=github"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=penyt&repo=Copyright-and-License&show_icons=true&theme=github_dark&show_owner=true&description_lines_count=2"/>
 </p>
