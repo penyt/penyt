@@ -16,5 +16,4 @@
 
 [![Penyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=penyt&show_icons=true&theme=github_dark&hide=commits,issues&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-### About my copyright & license
-[![Copyright & License](https://github-readme-stats.vercel.app/api/pin/?username=penyt&repo=Copyright-and-License&show_icons=true&theme=github_dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+_About my copyright & license: [Copyright & License](https://github.com/penyt/Copyright-and-License)_
