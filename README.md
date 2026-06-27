@@ -9,11 +9,11 @@
 - [Morandyt](https://github.com/penyt/morandyt) - A Hugo theme that primarily uses the Morandi color tone for a soft, muted visual style.
 
 ### <img src="https://api.iconify.design/mynaui:terminal.svg?color=%235F965C" width="22" height="22" alt="tools" /> Script tools
-- [tmux-pencil](https://github.com/penyt/tmux-pencil)
+- [tmux-pencil](https://github.com/penyt/tmux-pencil) - Tmux-pencil helps you quickly set up your own .tmux.conf from scratch.
 
 <br>
 <br>
 
-[![Penyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=penyt&show_icons=true&theme=github_dark&hide=commits,issues&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Penyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=penyt&show_icons=true&theme=nightowl&hide=commits,issues&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 _About my copyright & license: [Copyright & License](https://github.com/penyt/Copyright-and-License)_
