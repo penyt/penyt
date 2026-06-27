@@ -8,7 +8,7 @@
 ### <img src="https://api.iconify.design/devicon:hugo.svg" width="22" height="22" alt="Hugo" /> Hugo Theme
 - [Morandyt](https://github.com/penyt/morandyt) - A Hugo theme that primarily uses the Morandi color tone for a soft, muted visual style.
 
-### <img src="https://api.iconify.design/flat-color-icons:idea.svg" width="22" height="22" alt="tools" /> Script tools
+### <img src="https://api.iconify.design/mynaui:terminal.svg?color=%235F965C" width="22" height="22" alt="tools" /> Script tools
 - [tmux-pencil](https://github.com/penyt/tmux-pencil)
 
 <br>
