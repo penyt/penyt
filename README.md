@@ -14,6 +14,6 @@
 <br>
 <br>
 
-[![Penyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=penyt&show_icons=true&theme=nightowl&hide=commits,issues&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Penyt's GitHub stats](https://github-stats-extended.vercel.app/api?username=penyt&show_icons=true&theme=nightowl&hide=commits,issues&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 _About my copyright & license: [Copyright & License](https://github.com/penyt/Copyright-and-License)_
